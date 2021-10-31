@@ -23,23 +23,14 @@ function fB(){
             fizzBuzz.push(`${i}`);
             result2.innerHTML=`fizzBuzz numbers: ${fizzBuzz} `;
         }
-        // }else{
-        //     result.innerHTML=`${inputNum} does not include any fizz or buzz number`;
-        // }
-        }   
-    }
+        
+    }   
+}
 
 
 
 
-// let fizz=[];
-// let buzz=[];
-// for(let i=0; i<100;i++);
-//     if (i%3==0){
-//         fizz.append({i});
-//     }else if (i%5==0){
-//         buzz.append({i});
-//     }
+
 console.log(fizz);
 console.log(buzz);
 console.log(fizzBuzz);
